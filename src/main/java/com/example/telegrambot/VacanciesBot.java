@@ -26,7 +26,7 @@ public class VacanciesBot extends TelegramLongPollingBot {
 
     private final Map<Long, String> lastShownVacanciesLevel = new HashMap<>();
 
-    private static final String token = "6666288870:AAHeVcU3uY73UwZ2yvLVsecDAJTHhRwg0Pc";
+    private static final String token = "*";
 
 
     public VacanciesBot() {
